@@ -1,6 +1,6 @@
 ---
 published: true
-title: Hello
+title: Hello from outside
 layout: post
 ---
 Hello from outside ===)
