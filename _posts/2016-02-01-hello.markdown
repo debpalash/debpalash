@@ -1,6 +1,0 @@
----
-published: true
-title: Hello from outside
-layout: post
----
-Hello from outside ===)
