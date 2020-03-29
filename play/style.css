@@ -28,7 +28,7 @@ body {
 } */
 
 .hero-body {
-  background: url(/assets/images/top-hero.jpg) !important;
+  background: url("/play/assets/images/top-hero.jpg") !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
@@ -69,7 +69,7 @@ body {
 }
 
 #features {
-  background: url("/assets/tower.jpg") no-repeat !important;
+  background: url("/play/assets/tower.jpg") no-repeat !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
