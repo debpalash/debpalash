@@ -1,9 +1,9 @@
-html {
-  scrollbar-width: thin;
-}
 body {
   background: rgb(255, 255, 255);
   overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  scrollbar-width: thin;
 }
 .nav-item,
 .nav-item:hover,
@@ -601,6 +601,9 @@ contact {
 footer {
   padding-top: 100px;
 }
+.foot{
+  margin:10px;
+}
 
 
 /* POPUP CONTACT */
@@ -628,14 +631,15 @@ footer {
   height:80vh;
   width: 100vw;
   margin: 0 auto;
-  overflow-x: hidden;
+  overflow-x: auto;
 }
 .modal-container a{
   padding:10px;
-  /* justify-content: center; */
+  justify-content: center;
+  overflow: hidden;
 }
 .modal{
-  overflow-x: hidden;
+  overflow: hidden;
   display: inline-block;
   position: inherit;
   text-align: center;
@@ -652,7 +656,7 @@ footer {
   display: inline-block;
   width: inherit;
   height: inherit;
-  overflow-x: hidden;
+  overflow: hidden;
 
 }
 #form:hover{
