@@ -167,7 +167,8 @@ li {
 li a {
   width: auto;
   height: 60px;
-  margin: 0px;
+  margin-right: 10px;
+  margin-left:10px;
   color: #fff;
   display: block;
   border-radius: 2px;
