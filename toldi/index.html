@@ -12,6 +12,7 @@
     <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.0/animate.min.css" />
     <link rel="stylesheet" href="css/custom.css">
 </head>
 
@@ -288,9 +289,9 @@
 
         <div class="contact container-fluid p-0 text-center">
             <div class="container contact-text bg-dark text-white">
-                <h2 class="h2">Contact US</h2>
-                <p class="lead">We look forward to doing business with you!</p>
-                <div class="h5">A single point connection for our clients that not only provides convenience
+                <!-- <h2 class="h2">Contact US</h2> -->
+                <p class="h3">We look forward to doing business with you!</p>
+                <div class="lead">A single point connection for our clients that not only provides convenience
                     globally,<br>
                     but
                     professional knowledge and
@@ -298,13 +299,52 @@
             </div>
 
 
-            <div class="iframe-wrap">
-                <iframe width="100%" height="100%" style="background: #333;"
+            <!-- <div class="iframe-wrap">
+                <iframe width="100%" height="100%" 
+                style="background: #333;"
                     src="https://app.smartsheet.com/b/form/7505ad59c3934dad869324fee3ae2397">
 
 
                 </iframe>
+            </div> -->
+
+
+
+            <section class="modal-container">
+
+                <div class="modal">
+
+                    <a id="form" class="lead" scr href="#animatedModal">
+                        <svg id="i-send" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="54" height="64"
+                            fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round"
+                            stroke-width="5%">
+                            <path d="M2 16 L30 2 16 30 12 20 Z M30 2 L12 20" />
+                        </svg> CONTACT US</a>
+                </div>
+            </section>
+
+            <!--DEMO01-->
+            <div id="animatedModal">
+                <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-animatedModal" -->
+
+                <div class="modal-content">
+                    <!--Your modal content goes here-->
+                    <iframe class="iframe" style="background: #333;" width="100%" height="100%"
+                        src="https://app.smartsheet.com/b/form/7505ad59c3934dad869324fee3ae2397">
+                    </iframe>
+                </div>
+                <!-- CLOSE -->
+                <div class="close-animatedModal">
+                    <br>
+                    <button class="btn-back" type="submit">Back</button>
+                </div>
+
+                <div class="col">
+                    <br>
+                    <p class="lead">Thank you for contacting. We'll get back to you shortly.</p>
+                </div>
             </div>
+
         </div>
 
     </section>
@@ -376,12 +416,14 @@
                     </h6>
                     <hr class="my-4">
                     <div class="icons col text-center">
-                        <a href="https://www.facebook.com/Toldi-Enterprises-105158857707648/"><img src="img/icon/1.svg"
-                                alt=""></a>
-                        <a href="https://twitter.com/Toldi_LLC"><img src="img/icon/2.svg" alt=""></a>
-                        <a href="https://www.linkedin.com/company/toldi-enterprises-llc/?viewAsMember=true"><img
+                        <a target="_blank" href="https://www.facebook.com/Toldi-Enterprises-105158857707648/"><img
+                                src="img/icon/1.svg" alt=""></a>
+                        <a target="_blank" href="https://twitter.com/Toldi_LLC"><img src="img/icon/2.svg" alt=""></a>
+                        <a target="_blank"
+                            href="https://www.linkedin.com/company/toldi-enterprises-llc/?viewAsMember=true"><img
                                 src="img/icon/3.svg" alt=""></a>
-                        <a href="https://www.instagram.com/toldi2020/?hl=en"><img src="img/icon/4.svg" alt=""></a>
+                        <a target="_blank" href="https://www.instagram.com/toldi2020/?hl=en"><img src="img/icon/4.svg"
+                                alt=""></a>
 
                     </div>
 
@@ -412,6 +454,7 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.0/slick.js"></script>
+    <script src="js/animatedModal.min.js"></script>
 </body>
 
 <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500&display=swap" rel="stylesheet">

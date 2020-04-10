@@ -163,3 +163,8 @@ $(document).ready(function () {
         }]
     });
 });
+
+
+// CONTACT POPUP
+
+$("#form").animatedModal();
