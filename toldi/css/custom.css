@@ -611,8 +611,13 @@ footer {
 .modal-container:hover{
   background-color: #323;
   color: #0fbcf5;
-  transition: all .5s;
+  -webkit-transition: ease-in-out .9s;
+-moz-transition: ease-in-out .9s;
+-o-transition: ease-in-out .9s;
+transition: ease-in-out .9s;
+  
 }
+
 .modal-container{
   position:sticky;
   height: 200px;
