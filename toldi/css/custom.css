@@ -611,10 +611,6 @@ footer {
 .modal-container:hover{
   background-color: #323;
   color: #0fbcf5;
-  -webkit-transition: ease-in-out .9s;
--moz-transition: ease-in-out .9s;
--o-transition: ease-in-out .9s;
-transition: ease-in-out .9s;
   
 }
 
@@ -629,12 +625,12 @@ transition: ease-in-out .9s;
   justify-items: center;
   
 }
-.animatedModal iframe{
-  height:80vh;
-  width: 80vw;
-}
+/* .animatedModal iframe{
+  height:30vh;
+  width: 100vw;
+} */
 .iframe{
-  height:80vh;
+  height:70vh;
   width: 100vw;
   margin: 0 auto;
 }
@@ -655,7 +651,7 @@ transition: ease-in-out .9s;
 #form{
   color:#fff;
   padding: 40px;
-  font-size: 40px;
+  /* font-size: 40px; */
   display: inline-block;
   width: inherit;
   height: inherit;
@@ -680,4 +676,8 @@ button{
   width:100px;
   height:60px;
 
+}
+.close-animatedModal{
+  margin: 0 auto;
+width: max-content;
 }
