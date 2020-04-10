@@ -630,7 +630,7 @@ footer {
   width: 100vw;
 } */
 .iframe{
-  height:70vh;
+  height:80vh;
   width: 100vw;
   margin: 0 auto;
 }
@@ -681,3 +681,5 @@ button{
   margin: 0 auto;
 width: max-content;
 }
+
+*{overflow-x: hidden;}
