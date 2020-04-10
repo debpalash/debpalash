@@ -1,13 +1,9 @@
 html {
   scrollbar-width: thin;
-  background-color: rgb(255, 255, 255);
-  scroll-behavior: auto;
-  /*   border-radius: 22px;/* Chrome 10-25, Safari 5.1-6 */
-  /* background: linear-gradient(to right, #2948ff, #396afc); */
 }
 body {
   background: rgb(255, 255, 255);
-  /* overflow: hidden; */
+  overflow-x: hidden;
 }
 .nav-item,
 .nav-item:hover,
@@ -681,5 +677,3 @@ button{
   margin: 0 auto;
 width: max-content;
 }
-
-*{overflow-x: hidden;}
