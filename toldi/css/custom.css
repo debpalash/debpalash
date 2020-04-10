@@ -612,6 +612,8 @@ footer {
 
 .modal-container{
   position:sticky;
+  width: 100vw;
+  overflow-x: hidden;
   height: 200px;
   background-color: #0fbcf5;
   color:#fff;
@@ -621,20 +623,19 @@ footer {
   justify-items: center;
   
 }
-/* .animatedModal iframe{
-  height:30vh;
-  width: 100vw;
-} */
+
 .iframe{
   height:80vh;
   width: 100vw;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 .modal-container a{
   padding:10px;
   /* justify-content: center; */
 }
 .modal{
+  overflow-x: hidden;
   display: inline-block;
   position: inherit;
   text-align: center;
@@ -651,6 +652,7 @@ footer {
   display: inline-block;
   width: inherit;
   height: inherit;
+  overflow-x: hidden;
 
 }
 #form:hover{
@@ -676,4 +678,5 @@ button{
 .close-animatedModal{
   margin: 0 auto;
 width: max-content;
+overflow-x: hidden;
 }
