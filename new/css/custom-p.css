@@ -3,6 +3,7 @@
 body {
   background: rgb(255, 255, 255);
   overflow-x: hidden;
+  overflow-y: scroll;
   margin: 0;
   padding: 0;
   scrollbar-width: thin;
@@ -212,6 +213,7 @@ li:hover {
   color: #fff;
 }
 #menu-toggle {
+  margin:10px;
   width: 55px;
   height: 55px;
   background: #2ea8ee00;
@@ -418,15 +420,11 @@ li:hover {
 
 #section03,
 contact {
-  background: url(../img/contact-bg.jpg);
+  /* background: url(../img/contact-bg.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 150px;
-  background-color: #0000006e !important;
-
-  -webkit-box-shadow: inset 0.1em 0.1em 19em 0.5em rgba(0, 0, 0, 0.767);
-
-          box-shadow: inset 0.1em 0.1em 19em 0.5em rgba(0, 0, 0, 0.767);
+  background-color: #6b6b6b05 !important;
 }
 
 .space100 {
@@ -508,8 +506,8 @@ contact {
   height: 100px;
   position: absolute;
   left: 0px;
-  background: -webkit-gradient(linear, right bottom, left top, color-stop(49%, rgba(130, 58, 156, 0)), color-stop(51%, #fff));
   background: -o-linear-gradient(right bottom, rgba(130, 58, 156, 0) 49%, #fff 51%);
+  background: -webkit-gradient(linear, right bottom, left top, color-stop(49%, rgba(130, 58, 156, 0)), color-stop(51%, #fff));
   background: linear-gradient(to left top, rgba(130, 58, 156, 0) 49%, #fff 51%);
 }
 /*********** left to right thicker *********/
@@ -722,8 +720,8 @@ button{
 }
 .btn-back{
   background: #323;
-  background: -webkit-gradient(linear, right to left, from(rgba(204, 56, 204, 0.795)), color-stop(139, rgb(151, 13, 82)), color-stop(14), to(77));
   background: -o-linear-gradient(left to right, rgba(204, 56, 204, 0.795), rgb(151, 13, 82)139, 14, 77);
+  background: -webkit-gradient(linear, right to left, from(rgba(204, 56, 204, 0.795)), color-stop(139, rgb(151, 13, 82)), color-stop(14), to(77));
   background: linear-gradient(left to right, rgba(204, 56, 204, 0.795), rgb(151, 13, 82)139, 14, 77);
   border-radius: 5px;
   font-size: 2rem;
@@ -783,7 +781,6 @@ a img:hover{
   -webkit-box-shadow: 0;
           box-shadow: 0;
 }
-
 
 
 
