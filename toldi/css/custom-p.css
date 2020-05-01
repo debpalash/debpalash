@@ -1,5 +1,7 @@
 /* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
 
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
 body {
   background: rgb(255, 255, 255);
   overflow-x: hidden;
@@ -98,26 +100,30 @@ nav {
   -o-transition: all 0.3s;
   transition: all 0.3s;
 }
-nav.navShadow {
+.navShadow {
   -webkit-box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
           box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
-  background-color: black;
+         -ms-box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
+  background: black;
   height: 70px;
 }
-nav.navShadow #word-mark {
+.navShadow #word-mark {
   opacity: 0;
 }
 
 #brand,
-#menu,
-ul {
+#menu {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
+  -webkit-box-align: left;
   -ms-flex-align: center;
       align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
 }
+
 
 #brand {
   padding-left: 40px;
@@ -440,7 +446,7 @@ contact {
   -webkit-box-shadow: inset 0.1em 0.1em 19em 0.5em rgba(0, 0, 0, 0.425);
           box-shadow: inset 0.1em 0.1em 19em 0.5em rgba(0, 0, 0, 0.425);
   color: white;
-  padding: 150px;
+  padding: 110px;
   border-top-width: 9px !important;
   border-right-width: 9px !important;
   border-bottom-width: 9px !important;
@@ -467,10 +473,10 @@ contact {
   margin-bottom: 30px;
 }
 .count-number {
-  font-size: 50px;
+  font-size: 30px;
 }
 .count-text {
-  font-size: 25px;
+  font-size: 20px;
 }
 .padding-left {
   padding-left: 10px;
@@ -535,7 +541,9 @@ contact {
 
 .slick-slider {
   position: relative;
+  position: -ms-page;
   display: block;
+  display: -ms-grid;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-user-select: none;
@@ -742,11 +750,13 @@ overflow-x: hidden;
 
 
 /* MENU MOD */
-nav {height: 80px;}
+nav {
+    height: 80px;}
 #brand, #menu, ul {
     -webkit-box-align: stretch;
-        -ms-flex-align: stretch;
-            align-items: stretch;}
+        /* -ms-flex-align: stretch; */
+            -ms-flex-align: stretch;
+        align-items: stretch;}
 	
 li a{
 font-size: large;}
@@ -757,7 +767,8 @@ nav,nav.navShadow{
 	
 #brand, #menu, ul {
     -webkit-box-align: stretch;
-    -ms-flex-align: stretch;
+    /* -ms-flex-align: center; */
+        -ms-flex-align: stretch;
         align-items: stretch;
 	margin: 0 auto;
 	}
@@ -783,6 +794,33 @@ a img:hover{
 }
 
 
+.contact-area{
+  background: rgba(128, 128, 128, 0.123);
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 400;
+  font:"Source Sans Pro",sans-serif;
+  word-wrap: break-word;
+}
 
+.bottom-nav{
+  background: #0a0a0a;  
+  color:#fff;
+  padding: 50px;
+}
+.bottom-nav a{
+  color:#fff;
+}
 
+.fab{
+  background: #224a9a;
+  padding: 15px;
+  border-radius: 99px;
+}
+.fab:hover{
+  background: #07070781;
+}
 
+.col-md-1{
+  padding-right: 5px;
+}
