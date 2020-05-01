@@ -707,16 +707,15 @@ footer {
 }
 #form{
   color:#fff;
-  padding: 40px;
-  /* font-size: 40px; */
-  display: inline-block;
-  width: inherit;
-  height: inherit;
-  overflow: hidden;
+  background-color: #224a9a;
+  border-radius: 5px;
+  padding: 19px;
+  font-size: 25px;
 
 }
 #form:hover{
-  color: #fff;
+  color: #224a9a;
+  background-color: #fff;
 }
 button{
   color:none;
