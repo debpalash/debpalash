@@ -2,14 +2,10 @@
 
 body {
   background: rgb(255, 255, 255);
-  overflow-x: hidden;
-  overflow-y: scroll;
   margin: 0;
   padding: 0;
   scrollbar-width: thin;
-  scrollbar-base-color: #0a0a0a;
-  scrollbar-track-color: #0fbcf5;
-  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 /* li
 a,
