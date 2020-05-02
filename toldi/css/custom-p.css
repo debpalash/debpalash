@@ -46,6 +46,9 @@ h3,
 h4 {
   font-family: "Poppins", sans-serif;
 }
+h1,h2,h3,h4{
+  font-weight: 400 !important;
+}
 
 #hero-section {
   background-color: transparent;
