@@ -7,6 +7,9 @@ body {
   margin: 0;
   padding: 0;
   scrollbar-width: thin;
+  scrollbar-base-color: #0a0a0a;
+  scrollbar-track-color: #0fbcf5;
+  scroll-behavior: smooth;
 }
 /* li
 a,
@@ -307,7 +310,8 @@ li:hover {
   }
   ul.showMenu {
     height: 100vh;
-    width: 250px;
+    width: 300px;
+    z-index: 0;
     /* border-radius: 5px; */
     right: 0;
     -webkit-box-orient: vertical;
@@ -345,11 +349,12 @@ li:hover {
     /* transition: all 0.3s 0.1s; */
   }
   li a {
-    width: 120px;
-    height: 60px;
+    width: inherit;
+    height: inherit;
     margin: 0px;
     color: #222;
     display: block;
+    
     border-radius: 2px;
     letter-spacing: -0.5px;
     text-decoration: none;
@@ -371,14 +376,49 @@ li:hover {
     text-decoration: none;
     color: rgb(45, 146, 230);
   }
-  li:hover,a:hover {
+  li:hover {
     text-decoration: none;
-    color: rgb(45, 146, 230);
+    transition: linear 0.5s; 
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 50px;
+    margin-left: 10px;
+    transform: scale(.9);
+    background: linear-gradient(135deg, #3bebbd, #5792e0, #191d22, #b2d455);
+background-size: 800% 800%;
+
+-webkit-animation: AnimationName 7s ease infinite;
+-moz-animation: AnimationName 7s ease infinite;
+-o-animation: AnimationName 7s ease infinite;
+animation: AnimationName 7s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:11% 0%}
+    50%{background-position:90% 100%}
+    100%{background-position:11% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:11% 0%}
+    50%{background-position:90% 100%}
+    100%{background-position:11% 0%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:11% 0%}
+    50%{background-position:90% 100%}
+    100%{background-position:11% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:11% 0%}
+    50%{background-position:90% 100%}
+    100%{background-position:11% 0%}
+}
   }
+ 
 
   li:first-child,
   li:nth-child(2) {
-    margin-top: 10px;
+    margin-top: 5px;
   }
   #head-line {
     -webkit-transform: scale(0.8);
@@ -389,10 +429,13 @@ li:hover {
 
 /************** RESPONSIVE AREA END **********/
 
-#section01 {
+#about {
   background: url(../img/counter-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  /* Background image scroll effect */
+  background-position: center center;
+  background-attachment: fixed;
   height: 100%;
 
   -o-border-image: url(../poly.svg);
@@ -401,7 +444,7 @@ li:hover {
   border-image-slice: 0 175 115 165 fill;
   border-image-width: 15%;
 }
-#section02 {
+#company {
   background-color: #fff;
   /* background: url(../img/top-hero.jpg) no-repeat; */
   /* box-shadow: inset .1em .1em 19em .5em rgba(0, 0, 0, 0.733); */
@@ -419,7 +462,7 @@ li:hover {
   border-right: 0;
 }
 
-#section03{
+#contact{
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 150px;
@@ -715,6 +758,7 @@ footer {
   border-radius: 5px;
   padding: 19px;
   font-size: 25px;
+  z-index: 99;
 
 }
 #form:hover{
