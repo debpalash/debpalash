@@ -298,9 +298,6 @@ li:hover {
     padding-left: 10px;
     -moz-padding-end: 5px;
     border-top-left-radius: 10px;
-
-    /* -webkit-transform: translate(, );
-    transform: translate(, ); */
     -webkit-box-shadow: 0 5px 30px -4px rgba(0, 0, 0, 0.2);
             box-shadow: 0 5px 30px -4px rgba(0, 0, 0, 0.2);
     -webkit-transition: all 0.3s;
@@ -320,22 +317,22 @@ li:hover {
   }
   ul.showMenu li {
     padding: 5px;
-    height: 45px;
+    height: 60px;
     opacity: 1;
     visibility: visible;
   }
 
   li {
     color: black;
-    width: inherit;
-    float: left;
-    padding-left: 20%;
+     width: inherit; 
+     float: left; 
+     padding-left: 20%; 
     opacity: 0;
     visibility: hidden;
     margin-left: 0;
     font-size: 15px;
     margin-right: 10px;
-    display: ruby;
+    display: flex;
     -ms-flex-item-align: start;
         -ms-grid-row-align: start;
         align-self: start;
@@ -348,7 +345,7 @@ li:hover {
     /* transition: all 0.3s 0.1s; */
   }
   li a {
-    width: 100px;
+    width: 120px;
     height: 60px;
     margin: 0px;
     color: #222;
@@ -374,7 +371,7 @@ li:hover {
     text-decoration: none;
     color: rgb(45, 146, 230);
   }
-  a:hover {
+  li:hover,a:hover {
     text-decoration: none;
     color: rgb(45, 146, 230);
   }
@@ -422,9 +419,7 @@ li:hover {
   border-right: 0;
 }
 
-#section03,
-contact {
-  /* background: url(../img/contact-bg.jpg); */
+#section03{
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 150px;
@@ -478,6 +473,15 @@ contact {
 }
 .padding-left {
   padding-left: 10px;
+}
+.timer{
+  margin-left: 15px;
+}
+.icon{
+  margin-right: 10px;
+}
+.plus:after{
+  content: "+";
 }
 
 #i-checkmark {
@@ -780,16 +784,12 @@ li{
 padding: 5px;
 }
 
-
-
-
 a img:hover{
   background:#3d73df ;
   border-radius: 40px;
   -webkit-box-shadow: 0;
           box-shadow: 0;
 }
-
 
 .contact-area{
   background: rgba(128, 128, 128, 0.123);
@@ -820,4 +820,8 @@ a img:hover{
 
 .col-md-1{
   padding-right: 5px;
+}
+
+#license-area:before{
+   border-image: url(https://roc.az.gov/sites/default/files/rocseal.png);
 }
