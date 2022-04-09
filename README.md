@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Palash Debnath</h1>
 <h3>Making web of things</h3>
 
-* Web * Flutter * Linux and Things *
+ Web * Flutter * Linux and Things not related
 
 => Current Love affairs:
 
