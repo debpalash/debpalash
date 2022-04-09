@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Palash Debnath</h1>
 <h3 align="center">Making web of things</h3>
 
-- I’m currently working on <a href="https://palash.dev">Site Palash.dev</a>
+=> Current Love affairs:
 
-- I’m currently learning **Flutter**
+* 🗺️ Currently working on <a href="https://palash.dev">Palash.dev</a>
+* 🍀 Learning **Flutter**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debpalash&show_icons=true&locale=en" alt="debpalash" /></p>
 
+Let's talk <a href="mailto:hi@palash.dev">Write an Email</a>
