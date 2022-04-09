@@ -5,7 +5,7 @@
 
  Web * Flutter * Linux and Things not related
 
-=> Current Love affairs:
+💌 Current Love affairs:
 
 * 🗺️ Currently working on <a href="https://palash.dev">Palash.dev</a>
 * 🍀 Learning **Flutter**
