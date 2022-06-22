@@ -1,0 +1,68 @@
+html{
+    background-color: black;
+    color: antiquewhite;
+}
+#memeBtn {
+    font-size: 1.4rem;
+    cursor: pointer;
+    text-align: center;
+    top: 5px;
+    margin: 0 auto;
+    width: 280px;
+    height: 35px;
+    border-radius: 80px;
+    border: 2px dotted rgba(235, 36, 235, 0.867);
+    padding:3px;
+    position: sticky;
+    z-index: 99;
+    color: rgba(84, 201, 94, 0.801);
+    background-color: rgba(2, 4, 1, 0.76);
+}
+#memeBtn:hover{
+    background-color: rgba(93, 217, 79, 0.928) ;
+    color: antiquewhite;
+    transform: transform(2,2,2);
+}
+
+#memes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+}
+h4{
+    transform: rotate(3deg);
+    text-align: center;
+}
+.dlbtn{
+    size: 30px;
+    width: 40px;
+    height: 20px;
+    margin: 0 auto;
+    background-color:#fff ;
+}
+.dlbtn::after{
+    width: 30px;
+    height: 30px;
+}
+.meme {
+    height: auto;
+    padding: 5px;
+    width: 370px;
+    margin: 3px;
+    border-radius: 20px;
+    box-shadow: 3px solid rgb(46, 230, 132);
+    transform: rotate(-3deg);
+    border: 1px dashed rgba(62, 203, 67, 0.721);
+}
+
+.meme>img {
+    border-radius: 3px;
+    height: 350px;
+    width: 350px;
+    padding-left: 10px;
+    transform: rotate(3deg);
+    /* transform: translateX(10px) rotate(1deg) translateY(-5px); */
+}
