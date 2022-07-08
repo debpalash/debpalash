@@ -1,14 +1,6 @@
 
 
 <h1>Hi 👋, I'm Palash Debnath</h1>
-<h3>Making web of things</h3>
-
- Web * Flutter * Linux and Things not related
-
-💌 Current Love affairs:
-
-* 🗺️ Currently working on <a href="https://palash.dev">Palash.dev</a>
-* 🍀 Learning **Flutter**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debpalash&show_icons=true&locale=en" alt="debpalash" /></p>
 
