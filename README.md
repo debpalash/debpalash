@@ -8,4 +8,4 @@ Projects
 - [unbird](https://github.com/debpalash/unbird) — privacy-friendly X/Twitter frontend
 
 Contact
-hi [ @] palash.dev
+- hi [ @] palash.dev
