@@ -1,5 +1,14 @@
-hi :wave:
+Hi, I'm Palash
+I love OSS philosophy, 
+Enjoy "good" 🤏 softwares and 
+occasional reading deep dive "boring" content about building systems.
 
-Ai ~ ML  ~ SolidJS
+My Public Projects
+---
 
-Let's talk <a href="mailto:hi@palash.dev">Write an Email</a>
+unbird — privacy friendly X/Twitter frontend 
+
+
+Collab/Business with me?
+---
+sure hi [@] palash.dev
