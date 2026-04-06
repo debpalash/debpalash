@@ -1,14 +1,11 @@
 Hi, I'm Palash
-I love OSS philosophy, 
-Enjoy "good" 🤏 softwares and 
-occasional reading deep dive "boring" content about building systems.
 
-My Public Projects
----
+I like OSS  
+I care about good software  
+I read about systems and design sometimes
 
-unbird — privacy friendly X/Twitter frontend 
+Projects
+- [unbird](https://github.com/debpalash/unbird) — privacy-friendly X/Twitter frontend
 
-
-Collab/Business with me?
----
-sure hi [@] palash.dev
+Contact
+hi [ @] palash.dev
