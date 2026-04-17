@@ -1,14 +1,13 @@
-Hi, I'm Palash
+Howdy, I'm Palash
 
-I like OSS  
-I care about good software  
-I read about systems and design sometimes
+I like good software, trying to build sometimes and mostly getting amazed what other are building.
+While when not "vibe-directing" ai agents to write programs, mostly reading about systems..
 
-Projects
+Things list
 - [OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - A Cinematic audio dubbing, Cloning and voice generation studio
 - [fast-mempalace](https://github.com/debpalash/fast-mempalace) - 200x faster mempalace port on zig/c
 - [unbird](https://github.com/debpalash/unbird) — privacy-friendly X/Twitter frontend
 - soon
   
-Contact
-- hi [ @] palash.dev
+question or inqueries
+- hi [@] palash.dev
