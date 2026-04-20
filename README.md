@@ -1,7 +1,6 @@
-Howdy, I'm Palash
-
 I like good software, trying to build sometimes and mostly getting amazed what other are building.
-While when not "vibe-directing" ai agents to write programs, mostly reading about systems..
+While when not coding/"vibe-directing" ai agents to get things well working, i'm mostly reading about systems... 
 
-Contact
-hi [@] palash.dev
+Contact: Not an AI
+
+-- hi [@] palash.dev
