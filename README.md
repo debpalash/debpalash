@@ -1,11 +1,8 @@
-I like good software/systems, talking about it here
-
+I like good software
 https://palash.dev
 
-Looking for hosted Voice Cloning, Dubbing and Voice workflow?
+Local AI Voice workflow?
+https://voicestudio.sh
 
-https://voicestudio.sh/cloud
-
-Pro/Enterprise usage license?
-
-https://voicestudio.sh/pro
+Cloud/Pro/Enterprise usage license?
+https://voicestudio.sh
