@@ -4,5 +4,5 @@ https://palash.dev
 Local AI Voice workflow?
 https://voicestudio.sh
 
-Cloud/Pro/Enterprise usage license?
-https://voicestudio.sh
+Enterprise usage license?
+https://voicestudio.sh/pro
