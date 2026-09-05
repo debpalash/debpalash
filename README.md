@@ -1,11 +1,7 @@
-VoiceStudio Hosted Cloud
-https://voicestudio.sh
+**[VoiceStudio](https://voicestudio.sh)** — Hosted voice AI studio.
 
-Friday: fully local personal ai assistant with local LLM
-https://github.com/debpalash/friday
+**[Friday](https://github.com/debpalash/friday)** — Your fully local AI assistant.
 
-All in One media player system
-https://github.com/debpalash/Opal
+**[Opal](https://github.com/debpalash/Opal)** — One player for all your media.
 
-Rufus and etcher but better
-https://github.com/debpalash/bootable
+**[Bootable](https://github.com/debpalash/bootable)** — A better way to flash ISOs.
