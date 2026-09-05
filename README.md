@@ -1,8 +1,11 @@
-I like good software
-https://palash.dev
-
-Local AI Voice workflow?
+VoiceStudio Hosted Cloud
 https://voicestudio.sh
 
-Enterprise usage license?
-https://voicestudio.sh/pro
+Friday: fully local personal ai assistant with local LLM
+https://github.com/debpalash/friday
+
+All in One media player system
+https://github.com/debpalash/Opal
+
+Rufus and etcher but better
+https://github.com/debpalash/bootable
