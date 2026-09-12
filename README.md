@@ -15,4 +15,4 @@ Support me if you found value from my work ♡
 
 I post updates & cool stuff https://x.com/idebpalash - https://x.com/voicestudiosh
 
-[♡ Sponsors my projects](https://github.com/debpalash/VoiceStudio/blob/main/SPONSORS.md)
+[♡ Enterprise/Patron Sponsors on VoiceStudio](https://github.com/debpalash/VoiceStudio/blob/main/SPONSORS.md)
