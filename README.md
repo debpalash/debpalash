@@ -13,8 +13,6 @@ I build things I wish existed — mostly open source.
 Support me if you found value from my work ♡
 [☕ Ko-fi](https://ko-fi.com/debpalash) · [PayPal](https://paypal.me/palashCoder) 
 
-Support me by following lol x also i post cool stuff
-
-https://x.com/idebpalash - https://x.com/voicestudiosh
+I post updates & cool stuff https://x.com/idebpalash - https://x.com/voicestudiosh
 
 [♡ Sponsors my projects](https://github.com/debpalash/VoiceStudio/blob/main/SPONSORS.md)
