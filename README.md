@@ -1,13 +1,17 @@
-**[VoiceStudio](https://voicestudio.sh)** — Voice AI studio
+# hey, i'm palash 👋
+builder from northeast india aiming for changing global agentic software industry for good
 
-**[Friday](https://github.com/debpalash/friday)** — Local AI assistant
+with open source.
 
-**[Opal](https://github.com/debpalash/Opal)** — All-in-one media player
+<img width="680" alt="Palash" src="https://github.com/user-attachments/assets/ea682d1d-beaa-4d4c-a64c-6c6c7969872d" />
 
-**[Bootable](https://github.com/debpalash/bootable)** — ISO flasher rufus alternative
+I build things I wish existed — mostly open source.
 
-**[OpenGTM](https://github.com/debpalash/opengtm)** — Open source clay.com alternative
+> *“why doesn't a good open-source version of this exist?”*
 
+[hi@palash.dev](mailto:hi@palash.dev) · [hi@voicestudio.sh](mailto:hi@voicestudio.sh)
 
-Talk to this human [hi@palash.dev](mailto:hi@palash.dev)
-Also human [hi@voicestudio.sh](mailto:hi@voicestudio.sh)
+If something I built helped you, you can help me keep building ♡
+[☕ Ko-fi](https://ko-fi.com/debpalash) · [PayPal](https://paypal.me/palashCoder) 
+
+[♡ Sponsors my projects](https://github.com/debpalash/VoiceStudio/blob/main/SPONSORS.md)
