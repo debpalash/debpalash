@@ -5,7 +5,7 @@ I build things I wish existed — mostly open source.
 
 > *“why doesn't a good open-source version of this exist?”*
 
-<img width="600" alt="Palash" src="https://github.com/user-attachments/assets/ea682d1d-beaa-4d4c-a64c-6c6c7969872d" />
+<img width="680" alt="Palash" src="https://github.com/user-attachments/assets/ea682d1d-beaa-4d4c-a64c-6c6c7969872d" />
 
 
 [hi@palash.dev](mailto:hi@palash.dev) · [hi@voicestudio.sh](mailto:hi@voicestudio.sh)
