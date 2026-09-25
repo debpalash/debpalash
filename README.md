@@ -15,5 +15,5 @@ Support without paying →
 Enterprise Sponsors 
 - sponsor@voicestudio.sh
 
-Buiness 
+Business 
 - hi@palash.dev
