@@ -4,7 +4,7 @@ Builder from northeast india, working toward a better agentic software industry.
 
 I build things i wish existed — mostly open source.
 
-Supporting my work ♡
+Support my work ♡
 - [Ko-fi](https://ko-fi.com/debpalash) 
 - [PayPal](https://paypal.me/palashCoder) 
 
