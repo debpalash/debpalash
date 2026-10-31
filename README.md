@@ -4,9 +4,7 @@ Independent founder & open-source builder from Northeast India.
 
 I build **AI products, agentic systems, and developer tools** that make powerful technology open, accessible, and independent.
 
-Building in public, shipping fast, and turning open-source ideas into real products and businesses.
-
-**[Follow my journey on X @idebpalash](https://x.com/idebpalash)** — I share what I'm building, engineering insights, open-source lessons, and the business behind it all.
+**[Connect with me on X @idebpalash](https://x.com/idebpalash)** — I share what I'm building, engineering insights, open-source lessons, and the business behind it all.
 
 ### Things I've built
 
