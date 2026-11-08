@@ -1,10 +1,6 @@
-# Hey, I'm Palash
+Hey, I'm Palash Independent founder & open-source builder from Northeast India.
 
-Independent founder & open-source builder from Northeast India.
-
-I build **AI products, agentic systems, and developer tools** to make powerful technology open and accessible.
-
-### Things I've built
+Things I've built
 
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — AI speech generation, voice cloning, and dubbing.
 - [OpenGTM](https://github.com/debpalash/OpenGTM) — AI-powered go-to-market automation.
@@ -14,11 +10,10 @@ I build **AI products, agentic systems, and developer tools** to make powerful t
 - [SuperPlexr](https://github.com/debpalash/superplexr) — Mission control for coding agents.
 - [Tru](https://github.com/debpalash/tru) — Privacy-first news and AI research.
 
-### Connect & collaborate
+Connect & collaboration
+I share experiments, launches, and lessons from building independently on [X / @idebpalash](https://x.com/idebpalash).
 
-I share experiments, launches, and lessons from building independently on **[X / @idebpalash](https://x.com/idebpalash)**.
-
-Open to **licensing, sponsorships, partnerships, and AI integrations**.
+Open to licensing, sponsorships, partnerships, and AI integrations.
 
 - **Business:** hi@palash.dev
 - **Sponsorships:** sponsor@voicestudio.sh
