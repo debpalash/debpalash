@@ -7,12 +7,8 @@ I build **AI products, agentic systems, and developer tools** to make powerful t
 ### Things I've built
 
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — AI speech generation, voice cloning, and dubbing.
-- [Opal](https://github.com/debpalash/Opal) — Open-source media player.
 - [OpenGTM](https://github.com/debpalash/OpenGTM) — AI-powered go-to-market automation.
-- [memXT](https://github.com/Yupcha/memXT) — Local long-term memory for coding agents.
 - [Friday](https://github.com/debpalash/friday) — Private, local AI assistant.
-- [Bootable](https://github.com/debpalash/bootable) — Cross-platform bootable drive creator.
-- [hrToolkit](https://github.com/Yupcha/hr-tools) — Offline HR and payroll tools.
 - [Hoglet](https://github.com/debpalash/hoglet) — Lightweight, self-hosted analytics.
 - [AgentWork](https://github.com/debpalash/agentwork) — Verifiable human-agent collaboration.
 - [SuperPlexr](https://github.com/debpalash/superplexr) — Mission control for coding agents.
